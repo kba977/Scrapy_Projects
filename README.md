@@ -14,3 +14,6 @@
 
 ## zhiHuSpider
 抓取知乎用户信息，主要参考， （侵立删）
+
+## QiuShiBaiKe
+抓取糗事百科热门笑话 author, content
