@@ -14,3 +14,6 @@
 
 ## QiuShiBaiKe
 抓取糗事百科热门笑话 author, content
+
+## ShiFuTu
+抓取十幅图id, title, imgurl 并下载图片
